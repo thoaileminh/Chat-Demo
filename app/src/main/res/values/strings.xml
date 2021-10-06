@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ChatDemo</string>
+
+    <!-- User List -->
+    <string name="app_user_list_title">User List</string>
+    <string name="app_user_list_empty">List users is empty!</string>
+    <string name="app_user_list_add_user_now">Add User Now</string>
+
+    <!-- Add User -->
+    <string name="app_add_user_title">Add user</string>
+    <string name="app_add_user_fullname">Fullname: </string>
+    <string name="app_add_user_age">Age: </string>
+    <string name="app_add_user_add">Add</string>
+
+    <!-- Alert -->
+    <string name="app_add_user_invalid_data">Invalid data! Please check your input.</string>
+    <string name="app_add_user_success">Add user success!</string>
+    <string name="app_add_user_fail">Add user fail!</string>
+
+</resources>

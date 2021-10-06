@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Button Style -->
+    <style name="BtnBlue500">
+        <item name="android:textSize">14dp</item>
+        <item name="fontFamily">@font/app_regular</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/blue500</item>
+        <item name="android:padding">@dimen/padding_0p5</item>
+    </style>
+
+    <!-- Text Style -->
+    <style name="T14R">
+        <item name="android:textSize">14dp</item>
+        <item name="fontFamily">@font/app_regular</item>
+        <item name="android:lineSpacingExtra">6dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="T14M">
+        <item name="android:textSize">14dp</item>
+        <item name="fontFamily">@font/app_medium</item>
+        <item name="android:lineSpacingExtra">6dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="T16R">
+        <item name="android:textSize">16dp</item>
+        <item name="fontFamily">@font/app_regular</item>
+        <item name="android:lineSpacingExtra">8dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="T16M">
+        <item name="android:textSize">16dp</item>
+        <item name="fontFamily">@font/app_medium</item>
+        <item name="android:lineSpacingExtra">8dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="T20M">
+        <item name="android:textSize">20dp</item>
+        <item name="fontFamily">@font/app_medium</item>
+        <item name="android:lineSpacingExtra">8dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

@@ -1,2 +1,7 @@
 # Chat-Demo
-Chat demo
+
+MVVM
+Room
+Coroutines
+Hilt
+Retrofit

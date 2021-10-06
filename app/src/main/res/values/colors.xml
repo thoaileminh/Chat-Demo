@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#33000000</color>
+    <color name="lineDivider">#e7e7e7</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="accent">#4199dd</color>
+
+    <color name="purple_500">#FF6200EE</color>
+    <color name="green200">#1d00bc3c</color>
+    <color name="green300">#4d00bc3c</color>
+    <color name="green500">#00bc3c</color>
+    <color name="blue500">#2f6bff</color>
+    <color name="ink400">#80011222</color>
+    <color name="blue200">#1a2f6bff</color>
+</resources>
